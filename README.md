@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+  I'm Hung, currently studying software development at FPT university.
 <!--
 **Morties02/Morties02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
